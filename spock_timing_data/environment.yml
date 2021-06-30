@@ -1,0 +1,8 @@
+name: regtest-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - psutil
+  - matplotlib
+  - pandas
